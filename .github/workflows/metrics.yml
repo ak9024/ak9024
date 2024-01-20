@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-
           user: ak9024
           template: terminal
           base: header, activity, community, repositories, metadata
