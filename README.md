@@ -1,6 +1,6 @@
 <div>
   <h2>Hello, I'm Adiatma Kamarudin</h2>
-  <small>I Software Engineer based in Indonesia</small>
+  <small>I'm Software Engineer based in Indonesia</small>
 </div>
 
 <br />
