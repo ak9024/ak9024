@@ -8,7 +8,6 @@ My OS (Open Source) Project.
 
 | Project          | GitHub Stars  |
 |------------------|---------------|
-| RustyWatch       | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) |
+| rustywatch       | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) |
 | go-chatgpt-sdk   | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-chatgpt-sdk) |
 | go-commit        | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-commit) |
-
