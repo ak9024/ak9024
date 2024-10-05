@@ -8,6 +8,6 @@ My OS (Open Source) Project.
 
 | Project          | GitHub Stars  |
 |------------------|---------------|
-| rustywatch - live reloading build with Rust.       | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) |
+| rustywatch - Live reloading build with Rust.       | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) |
 | go-chatgpt-sdk - Go SDK to interact with ChatGPT   | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-chatgpt-sdk) |
 | go-commit - CLI commit with by AI        | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-commit) |
