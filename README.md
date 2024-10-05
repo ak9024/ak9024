@@ -6,6 +6,9 @@ I'm ak9024, Software Engineer from Indonesia, i loves code with Rust, Go and JS.
 
 My OS (Open Source) Project.
 
-- RustyWatch ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) 
-- go-chatgpt-sdk ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-chatgpt-sdk)
-- go-commit ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-commit)
+| Project          | GitHub Stars  |
+|------------------|---------------|
+| RustyWatch       | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/rustywatch) |
+| go-chatgpt-sdk   | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-chatgpt-sdk) |
+| go-commit        | ![GitHub Repo stars](https://img.shields.io/github/stars/ak9024/go-commit) |
+
