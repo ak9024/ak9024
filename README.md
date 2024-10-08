@@ -8,4 +8,8 @@ My OS (Open Source) Project.
 
 - [RustyWatch](https://github.com/ak9024/rustywatch) - Hot Reloader For Any Programing Languages.
 
-I also write blogs in [www.adiatma.tech](https://adiatma.tech).
+**I also write blogs in:**
+
+- [www.adiatma.tech](https://adiatma.tech).
+- [dev.to/adiatma](https://dev.to/adiatma).
+- [dev.to/ak9024](https://dev.to/ak9024)
