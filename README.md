@@ -7,7 +7,7 @@ I'm **Adiatma Kamarudin**, Software Engineer from Indonesia, I loves build tools
 My OS (Open Source) Project.
 
 - [RustyWatch](https://github.com/ak9024/rustywatch) - Hot Reloader For Any Programing Languages.
-- [Rilis](httos://github.com/ak9024/rilis) - Local deployment tools built with Rust.
+- [Rilis](https://github.com/ak9024/rilis) - Local deployment tools built with Rust.
 
 
 **I also write blogs in:**
