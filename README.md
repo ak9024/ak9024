@@ -15,7 +15,3 @@ My OS (Open Source) Project.
 - [www.adiatma.tech](https://adiatma.tech)
 - [dev.to/adiatma](https://dev.to/adiatma)
 - [dev.to/ak9024](https://dev.to/ak9024)
-
-**Activity**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak9024&layout=donut)](https://github.com/ak9024)
