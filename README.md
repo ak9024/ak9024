@@ -12,6 +12,6 @@ My OS (Open Source) Project.
 
 **I also write blogs in:**
 
-- [www.adiatma.tech](https://adiatma.tech)
+- [www.devcrafter.id](https://devcrafter.id)
 - [dev.to/adiatma](https://dev.to/adiatma)
 - [dev.to/ak9024](https://dev.to/ak9024)
