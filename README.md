@@ -12,7 +12,7 @@ My OS (Open Source) Project.
 My Products.
 
 - [Luncurkan](https://www.luncurkan.dev) - Deploy in 5 Minutes, No Hassle.
-- [Forge](https://www.forge.luncurkan.dev) - Deployment API service for programmatic deployments.
+- [Forge](https://forge.luncurkan.dev) - Deployment API service for programmatic deployments.
 
 **I also write blogs in:**
 
